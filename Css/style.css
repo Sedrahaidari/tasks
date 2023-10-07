@@ -1,0 +1,52 @@
+/*Sedra Haidari 8933534*/
+body{
+    font:normal normal normal 12px/1.5 Arial,Helvetica,sans-serif;
+    width:100w;
+    height:100vh;
+    background-color:hsla(268, 70%,68%,0.5) ;
+}
+h2{
+    color:#f02;
+    font-size:2em;
+}
+header{
+    background-color:hsla(251, 71%, 68%, 0.5);
+}
+main{
+    float:left;
+    width: 65vw;
+    height: 60vh;
+    background-color:hsla(184, 71%, 68%, 0.5);
+
+
+}
+aside{
+    float:right;
+    width:25vw;
+    height:60vh;
+    background-color:hsla(323, 71%, 68%, 0.5);
+
+}
+
+footer{
+    clear: both;
+    background-color:hsla(212, 71%, 68%, 0.5);
+
+}
+.structural{
+    margin: 10px;
+    padding: 10px;
+    border:2px solid black;
+}
+#para1{
+    color:rgb(139, 40, 88);
+}
+#para2{
+    color:rgb(40, 139, 70);
+}
+a:hover:{
+    color:#f02
+}
+footer p{
+    font-size:.75em;
+}
